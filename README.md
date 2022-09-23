@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subbarao Bandi
-- 👀 I’m interested in Data Engineering, buildin data models, creating data architectures, data migration, ETL
+- 👀 I’m interested in Data Engineering, building data models, creating data architectures, data migration, ETL,data analytics, data lake,data warehouse
 - 📫 Avaiable at subbarao.bandi@hotmail.com
 
 <!---
